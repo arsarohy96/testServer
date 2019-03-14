@@ -1,8 +1,12 @@
 {
   "login": [
     {
-      "email": "abdul@gmail.com",
-      "title": "hello"
+      "email": "abdul.rehman@tintash.com",
+      "password": "1234"
+    },
+      {
+      "email": "faizan.dastgir@tintash.com",
+      "password": "1234"
     }
   ]
 }
