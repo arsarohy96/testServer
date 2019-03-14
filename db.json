@@ -1,12 +1,5 @@
 {
-  "login": [
-    {
-        "email": "abdul.rehman@tintash.com",
-        "name":"Abdul Rehman",
-        "organization":"Tintash",
-        "phone":"03001234567",
-        "password": "1234"
-    },
+  "login":
       {
         "email": "faizan.dastgir@tintash.com",
         "name":"Faizan Dastgir",
@@ -14,5 +7,4 @@
         "phone":"03007654321",
         "password": "1234"
     }
-  ]
 }
